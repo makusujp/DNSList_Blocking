@@ -1,6 +1,6 @@
-# HuaweiDNSList
-華為DNS清單
-使用後可能造成各種華為基礎服務異常
+#DNSList
+Huawei DNS
+Using this list will result in abnormal usage of Huawei services.
 
 #280 AD Blocker
 Update: 202307
