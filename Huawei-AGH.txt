@@ -1,3 +1,8 @@
+[Adblock Plus]
+! Expires: 1 hour
+! Version: 20220721
+! Title: HuaweiDNSBlcok
+! This is a DNS blocklist to block Huawei domains.
 ||achievement-dre.things.hicloud.com^
 ||adxcreative-dra.dbankcdn.com^
 ||adx-dre.op.hicloud.com^
