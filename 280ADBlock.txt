@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! Expires: 1 hour
-! Version: 20230810
+! Version: 20230823
 ! Title: 280ADBlock
 ||domain.dummy280280.net^
 ||check.dummy280280.net^
@@ -2216,6 +2216,27 @@
 ||xlivrdr.com^
 ||phyfzaothmfy.com^
 ||apzdfakiso.com^
+||xxxvjmp.com^
+||xliirdr.com^
+||clock-ok.com^
+||doppiocdn.com^
+||desgolurkom.com^
+||qenrbylyjbzza.top^
+||toddernovas.digital^
+||enkvmrkwrnleb.top^
+||myliveforyoudreder.com^
+||zv.7vid.net^
+||westats.dev^
+||esrpkd.com^
+||myliveforyoudreder.com^
+||ahyghotmptj.com^
+||x7r3mk6ldr.com^
+||bmbmwiadmvx.com^
+||almstda.tv^
+||hesoorda.com^
+||rausougo.net^
+||zuphaims.com^
+||voonogoa.net^
 @@||www.googleadservices.com^
 # ||googleadservices.com^
 # ||trafficgate.net^
