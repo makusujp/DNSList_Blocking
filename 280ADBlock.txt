@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! Expires: 1 hour
-! Version: 20230823
+! Version: 20230923
 ! Title: 280ADBlock
 ||domain.dummy280280.net^
 ||check.dummy280280.net^
@@ -1750,7 +1750,6 @@
 ||grunoaph.net^
 ||grirtouy.com^
 ||betzapdoson.com^
-||rsc.cdn77.org^
 ||truthful-quote.pro^
 ||aghffniwjd.ywufsjhc4.jp^
 ||xkqpwpxovmf.com^
@@ -2237,6 +2236,68 @@
 ||rausougo.net^
 ||zuphaims.com^
 ||voonogoa.net^
+||cabnnr.com^
+||subdued-illegal.pro^
+||actualreflection.com^
+||pemsrv.com^
+||lnjdmsbyytwl.com^
+||dwlgvbapt.com^
+||svbzpenplok.com^
+||sensorpluck.com^
+||ohkyxnjj.com^
+||magsrv.com^
+||trackwilltrk.com^
+||weednewspro.com^
+||goosetension.com^
+||illfriendship.com^
+||limpingpick.com^
+||js.phoenixmanga.com^
+||puppyderisiverear.com^
+||mmmdn.net^
+||329efb045e.com^
+||154886c13e.com^
+||raptingy.net^
+||gaufaine.com^
+||pubfuture-ad.com^
+||branlesero.com^
+||zlinkc.com^
+||deephicy.net^
+||grauglak.com^
+||oackoubs.com^
+||ad-drop.jp^
+||sruzefwboxu.com^
+||hqduejsycx.com^
+||tignuget.net^
+||vasteeds.net^
+||e2ertt.com^
+||perf.cdnads.com^
+||refreshingtold.com^
+||allowflannelmob.com^
+||impulsiveenabled.com^
+||wmpset.com^
+||strjuylfrjyk.site^
+||bxqq.xyz^
+||kgdtoba.com^
+||dghhot.com^
+||klzs.xyz^
+||js.canstrm.com^
+||js.wpnsrv.com^
+||js.capndr.com^
+||c01d3ac9cb.com^
+||veepteero.com^
+||adskeeper.com^
+||cardbluetone.live^
+||fewmaypick.live^
+||circle7-bd.com^
+||qxycdoexyj.com^
+||zzialtlewmzqki.com^
+||childrenweavestun.com^
+||sorrowgeneric.com^
+||vhrdwayksjrls.com^
+||kdpnmlygyagyx.com^
+||jealouschallenge.pro^
+||fvcwqkkqmuv.com^
+||52ee3dc5fe.com^
 @@||www.googleadservices.com^
 # ||googleadservices.com^
 # ||trafficgate.net^
