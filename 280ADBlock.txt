@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! Expires: 1 hour
-! Version: 20230923
+! Version: 20231017
 ! Title: 280ADBlock
 ||domain.dummy280280.net^
 ||check.dummy280280.net^
