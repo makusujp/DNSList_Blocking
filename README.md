@@ -6,4 +6,4 @@ Using this list will result in abnormal usage of Huawei services.
 
 # 280 AD Blocker
 
-Update: 202310
+Update: 202311
