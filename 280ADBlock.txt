@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! Expires: 1 hour
-! Version: 20231208
+! Version: 20231229
 ! Title: 280ADBlock
 ||domain.dummy280280.net^
 ||check.dummy280280.net^
@@ -2439,6 +2439,50 @@
 ||waust.at^
 ||leesecobourg.com^
 ||vampersyacal.com^
+||vwlknjjt.com^
+||thubanoa.com^
+||multstorage.com^
+||ordinardeuton.com^
+||leesecobourg.com^
+||mnaspm.com^
+||aucdn.net^
+||g0wow.net^
+||9e1852531b.com^
+||059e71004b.com^
+||295a9f642d.com^
+||multstorage.com^
+||ottjitkhug.com^
+||rkgwzfwjgk.com^
+||nicagqmiphk.com^
+||ranselpugmark.com^
+||poloptrex.com^
+||10945-4.s.cdn15.com^
+||tfaqkoqrenpa.com^
+||roastoup.com^
+||gishejuy.com^
+||uponelectabuzzor.club^
+||cameesse.net^
+||disshipbikinis.com^
+||lootexhausted.com^
+||ammannests.com^
+||groomtoo.com^
+||cdn.tubecorp.com^
+||tubecorporate.com^
+||psegreew.net^
+||rodrergi.com^
+||6001628d3d.com^
+||18788fdb24.com^
+||smasheswamefou.com^
+||stealcurtainsdeeprooted.com^
+||coggertyning.com^
+||firewoodpeerlessuphill.com^
+||adsfcdn.com^
+||overpetleersia.com^
+||12ezo5v60.com^
+||bwuodqziql.com^
+||homeycommemorate.com^
+||ku42hjr2e.com^
+||fatotdaqsb.com^
 @@||www.googleadservices.com^
 # ||googleadservices.com^
 # ||trafficgate.net^
