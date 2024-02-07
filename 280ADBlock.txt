@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! Expires: 1 hour
-! Version: 20231229
+! Version: 20240207
 ! Title: 280ADBlock
 ||domain.dummy280280.net^
 ||check.dummy280280.net^
@@ -2483,6 +2483,33 @@
 ||homeycommemorate.com^
 ||ku42hjr2e.com^
 ||fatotdaqsb.com^
+||boloptrex.com^
+||imdn.pics^
+||cdn.tubecorp.com^
+||vpnrice.com^
+||strungcourthouse.com^
+||pinkssmytrie.com^
+||mniumlapsers.com^
+||ahjomrgamsfo.com^
+||pavfazbwiap.com^
+||firsthandtie.com^
+||mintybug.com^ 
+||orbsrv.com^
+||sadjklq.com^
+||du0pud0sdlmzf.cloudfront.net^
+||d3eub2e21dc6h0.cloudfront.net^
+||bvyblnenz.com^
+||sanityflash.mom^
+||go.myavlive.com^
+||tjipseng.com^
+||js.mangalove.top^
+||thirtycabook.com^
+||cheekysleepyreproof.com^
+||anymorehopper.com^
+||ciliarycetus.com^
+||saintselfish.com^
+||safprotection.com^
+||opoxv.com^
 @@||www.googleadservices.com^
 # ||googleadservices.com^
 # ||trafficgate.net^
