@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! Expires: 1 hour
-! Version: 20240718
+! Version: 20240903
 ! Title: 280ADBlock
 ||domain.dummy280280.net^
 ||check.dummy280280.net^
@@ -2791,6 +2791,74 @@
 ||organiccopiedtranquilizer.com^
 ||successcuff.com^
 ||0127c96640.com^
+||js.blozoo.info^
+||jqdfehrixzyb.com^
+||beginningstock.com^
+||opsozouphy.com^
+||d1f05vr3sjsuy7.cloudfront.net^
+||d11enq2rymy0yl.cloudfront.net^
+||unnaturalstring.com^
+||teemingweekend.com^
+||admissiondemeanourusage.com^
+||relatumrorid.com^
+||jap.cookingsboss.com^
+||jap.cookinggenuine.com^
+||pitshopsat.com^
+||sj.classisclawers.com^
+||wideaplentyinsurance.com^
+||stoawugluce.net^
+||ptatexiwhe.com^
+||masakeku.com^
+||evergreenfan.pro^
+||imperturbableappearance.pro^
+||satisfied-tour.pro^
+||simplistic-king.pro^
+||sugaryambition.pro^
+||earlyfortune.pro^
+||dull-egg.pro^
+||mading-calipprox.com^
+||theagencyone.com^
+||selymer-sperts.com^
+||gizmoads.online^
+||bobgames-prolister.com^
+||gaming-adult.com^
+||tracker.shanon-services.com^
+||webwidget.shanon-services.com^
+||pteegostie.com^
+||pxpagprttoluu.com^
+||whouvoart.com^
+||hjheelgx.com^
+||hw.panaceoutlash.com^
+||diskaa.com^
+||fractionfridgejudiciary.com^
+||ak.shaugacakro.net^
+||vraqzoffifza.com^
+||js.bigcomics.win^
+||agerun.jp^
+||iads.unity3d.com^
+||mediation.unity3d.com^
+||isx.unity3d.com^
+||clobberprocurertightwad.com^
+||getrunkhomuto.info^
+||earringsatisfiedsplice.com^
+||astonishlandmassnervy.com^
+||trafficbass.com^
+||dukirliaon.com^
+||atmtaoda.com^
+||ugroocuw.net^
+||wayfarerfiddle.com^
+||abmbmuzpymru.com^
+||fathomcleft.com^
+||hintgroin.com^
+||ey.dramshaplite.com^
+||ptoupisso.net^
+||ak.phaunaitsi.net^
+||readsubsequentlyspecimen.com^
+||aftrk1.com^
+||aftrk3.com^
+||sunriseholler.com^
+||jt.whunpainty.com^
+||realisticwindow.com^
 @@||www.googleadservices.com^
 # ||googleadservices.com^
 # ||trafficgate.net^
