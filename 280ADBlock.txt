@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! Expires: 1 hour
-! Version: 20240903
+! Version: 20250207
 ! Title: 280ADBlock
 ||domain.dummy280280.net^
 ||check.dummy280280.net^
@@ -2315,7 +2315,6 @@
 ||taryardtugged.com^
 ||profitablecreativeformat.com^
 ||wigfulchiack.com^
-||storage.ko-fi.com^
 ||coignsunrent.com^
 ||npkzqlhtecxx.com^
 ||6f752f73ce.com^
@@ -2859,6 +2858,59 @@
 ||sunriseholler.com^
 ||jt.whunpainty.com^
 ||realisticwindow.com^
+||tuckedmajor.com^
+||whinemalnutrition.com^
+||toprevenuegate.com^
+||unfortunatelydroopinglying.com^
+||highcpmgate.com^
+||urgerrebasis.com^
+||st.zarebasdezaley.com^
+||ps.fungidcolder.com^
+||offshuppetchan.com^
+||js.onclckmn.com^
+||mcizas.com^
+||highcpmcreativeformat.com^
+||bogusnervousskier.com^
+||trustedgatetocontent.com^
+||discretionpollclassroom.com^
+||feelsjet.com^
+||deniedsolesummer.com^
+||highrevenuenetwork.com^
+||worthwhile-wash.com^
+||jl.withnimmunger.com^
+||hitchprivilege.com^
+||prvc.io^
+||itweepinbelltor.com^
+||graitaulrocm.net^
+||bankingbloatedcaptive.com^
+||loadingscripts.com^
+||bottledchagrinfry.com^
+||diffusedpassionquaking.com^
+||vlkev368.com^
+||xl.glanderdisjoin.com^
+||shakingtacklingunpeeled.com^
+||nw.capesunlocks.com^
+||ripheeksirg.net^
+||cdn.jp1media.com^
+||ptoorauptoud.net^
+||c.j8jp.com^
+||blaring-chocolate.com^
+||gw.rickywhence.com^
+||buzzonclick.com^
+||childhoodstudioconversation.com^
+||carrier202205.tokyo^
+||gggpht.com^
+||baccarat212.com^
+||go.ero-vtuber.com^
+||diagramjawlineunhappy.com^
+||besmeargleor.com^
+||creative.tklivechat.com^
+||zs.bemiresunlevel.com^
+||creative.rmishe.com^
+||ay.lalledwited.com^
+||eu-central-1.cdn-cloud.net^
+||hhklc.com^
+||rh.unactkiosk.com^
 @@||www.googleadservices.com^
 # ||googleadservices.com^
 # ||trafficgate.net^
