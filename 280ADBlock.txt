@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! Expires: 1 hour
-! Version: 20260327
+! Version: 20260327-01
 ! Title: 280ADBlock
 ||domain.dummy280280.net^
 ||check.dummy280280.net^
@@ -2961,6 +2961,7 @@
 ||cdn-fc.com^
 ||jobbox-front.mamastar.jp^
 ||adsboosters.xyz^
+@@||www.googleadservices.com^
 # ||googleadservices.com^
 # ||trafficgate.net^
 # ||nakanohito.jp^
