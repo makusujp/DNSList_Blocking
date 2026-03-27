@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! Expires: 1 hour
-! Version: 20250207
+! Version: 20260327
 ! Title: 280ADBlock
 ||domain.dummy280280.net^
 ||check.dummy280280.net^
@@ -1082,7 +1082,6 @@
 ||highsecurecn.com^
 ||highsecureus.com^
 ||hyperpromote.com^
-||img.gs-ad.jp^
 ||impression-east.liftoff.io^
 ||infolinks.com^
 ||inpagepush.com^
@@ -2911,7 +2910,57 @@
 ||eu-central-1.cdn-cloud.net^
 ||hhklc.com^
 ||rh.unactkiosk.com^
-@@||www.googleadservices.com^
+||new.plus-eromanga.com^
+||level.18huhu.com^
+||adpushup.com^
+||gs-ad.jp^
+||adsmarch.online^
+||imkirh.com^
+||trigs-sockets.com^
+||inherentdecide.com^
+||unmectappic.com^
+||fs-loader.com^
+||lt.camassmastic.com^
+||creative.live.javdock.com^
+||scratchyhook.com^
+||aj2532.bid^
+||yjo.youjizz.com^
+||getallmedia.com^
+||ads-lite2.net^
+||unibotscdn.com^
+||unibots.in^
+||d-markets.net^
+||kzuocxorfo.com^
+||ivmxckqpfddky.com^
+||tcrzhmdjeswj.com^
+||pubadx.one^
+||yn.algiersreests.com^
+||bngrol.com^
+||clickadu.net^
+||amawidget.yutbr.com^
+||api.ada-cloud.com^
+||recruitbox.media.iid.jp^
+||godkc.com^
+||wary-prior.com^
+||ds6n6c.com^
+||ib.semaisetything.com^
+||xr.staxisclivias.com^
+||gusion.space^
+||twads.gg^
+||snaptrckr.fun^
+||obqj2.com^
+||adexchangeclear.com^
+||videocdnmetrika.com^
+||creative.homejavlive.com^
+||wellworn-lead.com^
+||girls-escort.tokyo^
+||ads.bakusai.com^
+||mavrtracktor.com^
+||soonpubplatform.online^
+||perfumedstretch.com^
+||cdn-fc.com^
+||jobbox-front.mamastar.jp^
+||adsboosters.xyz^
 # ||googleadservices.com^
 # ||trafficgate.net^
 # ||nakanohito.jp^
